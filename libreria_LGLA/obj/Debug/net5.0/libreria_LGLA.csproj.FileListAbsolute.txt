@@ -83,3 +83,4 @@ C:\Users\lucia\source\repos\libreria_LGLA\libreria_LGLA\obj\Debug\net5.0\refint\
 C:\Users\lucia\source\repos\libreria_LGLA\libreria_LGLA\obj\Debug\net5.0\libreria_LGLA.pdb
 C:\Users\lucia\source\repos\libreria_LGLA\libreria_LGLA\obj\Debug\net5.0\libreria_LGLA.genruntimeconfig.cache
 C:\Users\lucia\source\repos\libreria_LGLA\libreria_LGLA\obj\Debug\net5.0\ref\libreria_LGLA.dll
+C:\Users\lucia\source\repos\libreria_LGLA\libreria_LGLA\obj\Debug\net5.0\libreria_LGLA.sourcelink.json

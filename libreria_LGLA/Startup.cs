@@ -1,4 +1,5 @@
 using libreria_LGLA.Data;
+using libreria_LGLA.Data.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,6 +35,9 @@ namespace libreria_LGLA
             services.AddControllers();
             //Configura DbContext con SQL
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(ConnectionString));
+
+            //Configurar el servicio para que pueda ser usado 
+            services.AddTransient<BooksService>();
              
             services.AddSwaggerGen(c =>
             {
@@ -61,6 +65,7 @@ namespace libreria_LGLA
             {
                 endpoints.MapControllers();
             });
+            AppDbInitializer.Seed(app);
         }
     }
 }
