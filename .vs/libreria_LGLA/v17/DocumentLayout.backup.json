@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|c:\\users\\lucia\\source\\repos\\libreria_lgla\\libreria_lgla\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|solutionrelative:libreria_lgla\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|c:\\users\\lucia\\source\\repos\\libreria_lgla\\libreria_lgla\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|solutionrelative:libreria_lgla\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|c:\\users\\lucia\\source\\repos\\libreria_lgla\\libreria_lgla\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|solutionrelative:libreria_lgla\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|c:\\users\\lucia\\source\\repos\\libreria_lgla\\libreria_lgla\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|solutionrelative:libreria_lgla\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|c:\\users\\lucia\\source\\repos\\libreria_lgla\\libreria_lgla\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|solutionrelative:libreria_lgla\\data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|c:\\users\\lucia\\source\\repos\\libreria_lgla\\libreria_lgla\\data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|solutionrelative:libreria_lgla\\data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|c:\\users\\lucia\\source\\repos\\libreria_lgla\\libreria_lgla\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|solutionrelative:libreria_lgla\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|c:\\users\\lucia\\source\\repos\\libreria_lgla\\libreria_lgla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D2A5B-18B9-4D00-A770-E8E2151A2A78}|libreria_LGLA\\libreria_LGLA.csproj|solutionrelative:libreria_lgla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "libreria_LGLA\\Data\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "libreria_LGLA\\Data\\AppDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:43:17.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "libreria_LGLA\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "libreria_LGLA\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:43:14.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "libreria_LGLA\\Data\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\Models\\Book.cs",
+              "RelativeToolTip": "libreria_LGLA\\Data\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:42:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "libreria_LGLA\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "libreria_LGLA\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:56:09.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "libreria_LGLA\\Data\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\Services\\BooksService.cs",
+              "RelativeToolTip": "libreria_LGLA\\Data\\Services\\BooksService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA7wEAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:46:33.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\ViewModels\\BookVM.cs",
+              "RelativeDocumentMoniker": "libreria_LGLA\\Data\\ViewModels\\BookVM.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Data\\ViewModels\\BookVM.cs",
+              "RelativeToolTip": "libreria_LGLA\\Data\\ViewModels\\BookVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:46:24.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Startup.cs",
+              "RelativeDocumentMoniker": "libreria_LGLA\\Startup.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Startup.cs",
+              "RelativeToolTip": "libreria_LGLA\\Startup.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:39:58.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Program.cs",
+              "RelativeDocumentMoniker": "libreria_LGLA\\Program.cs",
+              "ToolTip": "C:\\Users\\lucia\\source\\repos\\libreria_LGLA\\libreria_LGLA\\Program.cs",
+              "RelativeToolTip": "libreria_LGLA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:39:53.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

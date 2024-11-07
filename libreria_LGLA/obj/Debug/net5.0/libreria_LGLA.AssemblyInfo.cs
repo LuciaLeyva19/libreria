@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("libreria_LGLA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb93a44071053cb1a34a67debb590aef1c83e73a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2a3926ba8e700f46bea89d1aab3128ba0addd3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("libreria_LGLA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("libreria_LGLA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
