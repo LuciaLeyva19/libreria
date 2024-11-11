@@ -38,6 +38,8 @@ namespace libreria_LGLA
 
             //Configurar el servicio para que pueda ser usado 
             services.AddTransient<BooksService>();
+            services.AddTransient<AuthorsService>();
+            services.AddTransient<PublisherService>();
              
             services.AddSwaggerGen(c =>
             {
@@ -65,7 +67,7 @@ namespace libreria_LGLA
             {
                 endpoints.MapControllers();
             });
-            AppDbInitializer.Seed(app);
+            //AppDbInitializer.Seed(app);
         }
     }
 }
