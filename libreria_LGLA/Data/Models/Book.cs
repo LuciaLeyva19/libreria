@@ -14,7 +14,6 @@ namespace libreria_LGLA.Data.Models
         public DateTime? DateRead { get; set; }
         public int? Rate { get; set; }
         public string Genero { get; set; }
-        public string Autor { get; set; }
         public string CoverUrl { get; set; }
         public DateTime DateAdded { get; set; }
 

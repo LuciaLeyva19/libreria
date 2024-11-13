@@ -23,7 +23,6 @@ namespace libreria_LGLA.Data
                         DateRead = DateTime.Now.AddDays(-10),
                         Rate = 4,
                         Genero = "Biography",
-                        Autor = "1st Author",
                         CoverUrl = "https...",
                         DateAdded = DateTime.Now,
                     },
@@ -33,7 +32,6 @@ namespace libreria_LGLA.Data
                         Descripcion = "2nd Book Descripción",
                         IsRead = true,
                         Genero = "Biography",
-                        Autor = "2nd Author",
                         CoverUrl = "https...",
                         DateAdded = DateTime.Now,
                     });
